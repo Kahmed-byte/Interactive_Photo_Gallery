@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Project.5",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "photos"
+  }
+}
